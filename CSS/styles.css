@@ -1,0 +1,137 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Crimson Text', serif;
+  font-size: 150%;
+}
+
+h1 {
+  font-size: 5rem;
+  margin: 40px auto 0 auto;
+  font-family: 'Indie Flower', cursive;
+  color: #e7f0c3;
+
+}
+
+.indiana {
+  font-size: 2.5rem;
+  color: #c5fad9;
+  font-weight: normal;
+}
+
+h2 {
+  font-family: 'News Cycle', sans-serif;
+  color: #233714;
+
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+  margin: 100px auto 100px auto;
+}
+
+
+h3 {
+  font-family: 'News Cycle', sans-serif;
+  color: #233714;
+
+}
+
+.top-container {
+  background-color: #9aceff;
+  position: relative;
+  padding-top: 100px;
+}
+
+.headshot {
+  height: 35%;
+  width: 35%;
+  margin: 75px auto 10px auto;
+}
+
+.bio-text {
+  width: 50%;
+  margin: auto;
+}
+
+.gym {
+  width: 40%;
+  padding-right: 30px;
+}
+
+.money {
+  width: 40%;
+  padding-left: 30px;
+}
+
+
+.bottom-container {
+  background-color: #ffe6eb;
+  margin-top: 25px;
+  padding: 50px;
+}
+
+.In {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 250px;
+  top: 40px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 50px auto 50px auto;
+  line-height: 2;
+}
+
+.contact-message {
+  width: 50%;
+  margin: 40px auto 60px;
+}
+
+.quote {
+  color: #233714;
+  margin-bottom: 50px;
+}
+
+
+.btn {
+  box-shadow: 0px 12px 18px -6px #276873;
+	background:linear-gradient(to bottom, #bfe8eb 5%, #70eb9b 100%);
+	background-color:#bfe8eb;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #d807eb;
+  margin-bottom: 50px;
+}
+
+
+
+.footer-link {
+  color: #95adbe;
+  margin: auto 15px auto 15px;
+}
+
+.copyright {
+  color: #95adbe;
+}
